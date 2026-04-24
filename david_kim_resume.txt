@@ -1,0 +1,41 @@
+David Kim  |  david.kim@gmail.com  |  Seattle, WA
+
+DATA ENGINEER / ML OPS ENGINEER
+
+===========================
+PROFESSIONAL EXPERIENCE
+===========================
+
+MLOps Engineer – CloudData Systems                                    2021–Present
+  > Designed and maintained ML infrastructure on AWS (SageMaker, S3, Lambda, EC2)
+  > Containerised 15+ ML models with Docker; orchestrated deployments via Kubernetes (EKS)
+  > Built CI/CD pipelines for model deployment using GitHub Actions and Jenkins
+  > Managed Apache Airflow orchestration for 30+ production data pipelines
+  > Worked with data scientists to productionise PyTorch and scikit-learn models
+  > Implemented Weights & Biases for centralised experiment tracking
+
+Data Engineer – RetailTech                                            2019–2021
+  > Built ETL pipelines with Apache Spark (PySpark) processing 10TB/day
+  > Maintained data warehouse on Redshift; wrote complex SQL queries and stored procedures
+  > Implemented data quality checks with Great Expectations
+  > Supported ML model deployment and monitoring in production
+
+===========================
+EDUCATION
+===========================
+B.S. Computer Engineering — University of Washington                  2019
+
+===========================
+SKILLS
+===========================
+Cloud Platforms  : AWS (SageMaker, S3, Lambda, EC2, EMR, Glue), Azure basics
+MLOps Tools      : Docker, Kubernetes, MLflow, Weights & Biases, GitHub Actions
+Data Engineering : Apache Spark (PySpark), Airflow, Kafka, SQL, Redshift, Snowflake
+Programming      : Python (intermediate), Bash scripting, SQL (advanced)
+ML Familiarity   : scikit-learn, basic PyTorch, model serving patterns
+
+===========================
+CERTIFICATIONS
+===========================
+AWS Certified DevOps Engineer – Professional (2023)
+AWS Certified Data Analytics – Specialty (2022)

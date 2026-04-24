@@ -1,0 +1,37 @@
+ALICE CHEN
+alice.chen@email.com | linkedin.com/in/alicechen | github.com/alicechen
+San Francisco, CA
+
+SUMMARY
+Senior Machine Learning Engineer with 7 years of experience specialising in NLP and deep learning. Passionate about deploying scalable ML systems and fine-tuning large language models for enterprise applications.
+
+EXPERIENCE
+
+Senior ML Engineer — TechCorp AI                                      2020–Present
+- Led development of production NLP pipeline processing 50M+ documents/day using BERT and custom transformer architectures
+- Fine-tuned LLaMA-2 and Mistral models for domain-specific text classification (F1: 0.94)
+- Built MLflow experiment tracking system adopted by 12-person data science team
+- Deployed models on AWS SageMaker with auto-scaling; reduced inference latency by 40%
+- Orchestrated data pipelines with Apache Airflow and Apache Spark on EMR
+
+ML Engineer — DataSolutions Inc.                                      2017–2020
+- Implemented scikit-learn and PyTorch models for customer churn prediction (AUC 0.91)
+- Containerised ML services with Docker and Kubernetes on GCP (Vertex AI)
+- Maintained SQL data warehouse (PostgreSQL, Redshift) and ETL pipelines
+- Introduced Weights & Biases for team-wide experiment management
+
+EDUCATION
+M.S. Computer Science (Machine Learning) — Stanford University         2017
+B.S. Computer Science — UC Berkeley                                    2015
+
+SKILLS
+Languages:      Python (8 yrs), SQL, Bash, Scala
+ML Frameworks:  PyTorch, TensorFlow/Keras, scikit-learn, HuggingFace Transformers
+NLP:            BERT, GPT, LLaMA fine-tuning, NER, text classification, RAG, Pinecone
+MLOps:          MLflow, Weights & Biases, Docker, Kubernetes, CI/CD (GitHub Actions)
+Cloud:          AWS (SageMaker, S3, Lambda, EMR), GCP (Vertex AI, BigQuery)
+Data Eng.:      Apache Spark, Airflow, Pandas, NumPy
+
+PUBLICATIONS
+- "Efficient Domain Adaptation of LLMs via LoRA" — EMNLP 2023
+- "Scalable NER with Minimal Supervision" — ACL 2022

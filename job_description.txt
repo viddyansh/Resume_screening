@@ -1,0 +1,31 @@
+Senior Machine Learning Engineer
+
+We are looking for a Senior Machine Learning Engineer with 5+ years of experience to join our AI team. The ideal candidate will have strong expertise in Python, deep learning, and natural language processing.
+
+Key Responsibilities:
+- Design and implement production-grade machine learning models for NLP tasks
+- Build and maintain data pipelines using Apache Spark and Airflow
+- Deploy models using Docker, Kubernetes, and AWS SageMaker
+- Collaborate with data scientists and software engineers
+- Conduct A/B tests and model performance evaluations
+
+Required Skills:
+- Python (5+ years): NumPy, Pandas, scikit-learn, PyTorch, TensorFlow
+- Natural Language Processing: BERT, transformers, text classification, NER
+- Deep learning frameworks: PyTorch (preferred), TensorFlow/Keras
+- MLOps: MLflow, Weights & Biases, Docker, Kubernetes
+- Cloud: AWS (SageMaker, S3, Lambda) or GCP (Vertex AI)
+- Data engineering: SQL, Spark, Airflow
+- Version control: Git, CI/CD pipelines
+
+Nice to Have:
+- Experience with LLMs (GPT, LLaMA, Mistral fine-tuning)
+- Publications in ML conferences (NeurIPS, ICML, EMNLP)
+- Familiarity with vector databases (Pinecone, Weaviate)
+- Knowledge of retrieval-augmented generation (RAG)
+
+Education:
+- M.S. or Ph.D. in Computer Science, Statistics, or related field preferred
+- B.S. with equivalent experience considered
+
+We offer competitive salary ($160,000–$200,000), equity, and remote-friendly culture.

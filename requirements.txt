@@ -1,0 +1,28 @@
+# ============================================================
+# ResumeRank AI — Python dependencies
+# Tested on Python 3.10+
+# ============================================================
+
+# ── Core NLP & ML ────────────────────────────────────────────
+scikit-learn>=1.3.0
+nltk>=3.8.1
+numpy>=1.24.0
+
+# ── PDF Parsing (primary) ────────────────────────────────────
+PyMuPDF>=1.23.0          # fitz — fast, accurate PDF text extraction
+
+# ── PDF Parsing (fallback) ───────────────────────────────────
+PyPDF2>=3.0.1            # fallback if PyMuPDF is unavailable
+
+# ── Web Framework ────────────────────────────────────────────
+streamlit>=1.32.0
+
+# ── Visualisation ────────────────────────────────────────────
+matplotlib>=3.7.0
+
+# ── Optional: Semantic Embeddings ────────────────────────────
+# Uncomment the line below to enable Sentence-BERT support:
+# sentence-transformers>=2.6.0
+
+# ── Utilities ────────────────────────────────────────────────
+# (No additional dependencies required beyond the above)

@@ -1,0 +1,35 @@
+Carol Williams
+carol@cwdev.io | carolwilliams.dev
+
+FRONTEND DEVELOPER
+
+PROFESSIONAL SUMMARY
+Creative frontend developer with 4 years of experience building beautiful, responsive web applications. Specialised in React, TypeScript, and modern CSS frameworks.
+
+EXPERIENCE
+
+Frontend Engineer — StartupXYZ                                        2022–Present
+- Built React and Next.js applications with TypeScript
+- Implemented responsive UI designs using Tailwind CSS and Figma prototypes
+- Optimised web performance (Lighthouse score 95+)
+- Managed state with Redux Toolkit and React Query
+- Wrote unit tests with Jest and React Testing Library
+- Collaborated with designers using Figma and Storybook
+
+Junior Frontend Developer — WebAgency                                  2020–2022
+- Developed HTML5, CSS3, JavaScript web pages for 20+ client projects
+- Used Vue.js for single-page application development
+- REST API integration and basic Node.js/Express backends
+
+EDUCATION
+B.A. Graphic Design & Computer Science — University of Michigan       2020
+
+SKILLS
+Frontend: React, Next.js, Vue.js, TypeScript, JavaScript (ES6+), HTML5, CSS3
+Styling: Tailwind CSS, Styled Components, SCSS, Figma
+Testing: Jest, Cypress, React Testing Library
+Tools: Git, Webpack, Vite, npm, Vercel, Netlify
+Basic Backend: Node.js, Express, REST APIs
+
+INTERESTS
+UI/UX design, accessibility (WCAG 2.1), design systems, open-source contributions

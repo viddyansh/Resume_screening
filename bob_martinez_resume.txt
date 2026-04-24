@@ -1,0 +1,33 @@
+Bob Martinez
+bob.martinez@protonmail.com
+New York, NY | Portfolio: bobml.dev
+
+About Me
+Data scientist and ML engineer with 5 years of experience in predictive modeling and machine learning. Comfortable with Python and cloud environments. Looking for senior roles in ML engineering.
+
+Work History
+
+Data Scientist, FinanceHub                                            Jan 2021 – Present
+* Built credit risk models using scikit-learn (XGBoost, Random Forest) achieving 15% reduction in defaults
+* Created text mining pipeline using spaCy and NLTK for financial news sentiment analysis
+* Automated model retraining using Apache Airflow DAGs
+* Used Docker for model packaging; basic Kubernetes deployments
+* Queried large datasets with SQL (Spark SQL, Redshift)
+* Tracked experiments with MLflow
+
+Junior Data Scientist, Analytics Co.                                  2019 – 2021
+* Developed classification models in Python (Pandas, NumPy, scikit-learn)
+* Built dashboards in Tableau and assisted with A/B test analysis
+* Wrote ETL scripts with Python and PostgreSQL
+
+Education
+B.S. Statistics — New York University, 2019
+
+Technical Skills
+Python: Pandas, NumPy, scikit-learn, PyTorch (learning), some TensorFlow
+NLP: spaCy, NLTK, basic BERT experiments with HuggingFace
+Cloud: AWS S3, EC2, basic SageMaker exposure
+Tools: Git, Docker, MLflow, Airflow, SQL
+
+Certifications
+AWS Certified Machine Learning Specialty (2022)
